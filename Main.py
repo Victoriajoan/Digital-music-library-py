@@ -1,4 +1,4 @@
- song_info = {
+ Song_info = {
         "artist": artist,
         "album": album,
         "year": year
